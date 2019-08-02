@@ -57,3 +57,4 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'mongoid', '~> 7.0', '>= 7.0.4'
 gem 'mongoid_paranoia'
+gem 'whenever', '~> 1.0', require: false
